@@ -2,13 +2,13 @@
 
 ## To jest projekt końcowy audytu strony internetowej wykonany w ramach kursu Coders Lab - SEO specjalista.
 
-### użyte technologie:
+### Użyte technologie:
 
-- Senuto | Ahrefs | Screaming Frog SEO Spider | Microsoft Excel | Linkhouse
+- Senuto | Ahrefs | Screaming Frog SEO Spider | Microsoft Excel | Linkhouse | Siteliner
 
 ### Sekcje audytu:
 
-**_ Sekcja I _**
+*** Sekcja I - treść strony i słowa kluczowe ***
 - Analiza widoczności serwisu
 - Widoczność na thel konkurencji
 - Struktura adresowania URL
@@ -17,14 +17,14 @@
 - Ilość treści
 - Duplikacja
 - Kanibalizacja
-  **_ Sekcja II _**
+  *** Sekcja II - analiza techinczna ***
 - Meta Tagi
 - Page speed, dostosowanie do użądzeń mobilnych
 - Indesk, Sitemap, Robots.txt
 - Przekierowania i bezpieczeństwo
 - Grafiki
 - Paginacja i dane strukturalne
-  **_ Sekcja III _**
+  *** Sekcja III - profil linków ***
 - Linkowanie wewnętrzne
 - Analiza Profilu Linków
 
