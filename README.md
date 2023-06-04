@@ -8,7 +8,7 @@
 
 ### Sekcje audytu:
 
-*** Sekcja I - treść strony i słowa kluczowe ***
+***Sekcja I - treść strony i słowa kluczowe***
 - Analiza widoczności serwisu
 - Widoczność na thel konkurencji
 - Struktura adresowania URL
@@ -17,14 +17,14 @@
 - Ilość treści
 - Duplikacja
 - Kanibalizacja
-  *** Sekcja II - analiza techinczna ***
+***Sekcja II - analiza techinczna***
 - Meta Tagi
 - Page speed, dostosowanie do użądzeń mobilnych
 - Indesk, Sitemap, Robots.txt
 - Przekierowania i bezpieczeństwo
 - Grafiki
 - Paginacja i dane strukturalne
-  *** Sekcja III - profil linków ***
+  ***Sekcja III - profil linków***
 - Linkowanie wewnętrzne
 - Analiza Profilu Linków
 
