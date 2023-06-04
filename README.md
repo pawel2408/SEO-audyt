@@ -10,7 +10,7 @@
 
 ***Sekcja I - treść strony i słowa kluczowe***
 - Analiza widoczności serwisu
-- Widoczność na thel konkurencji
+- Widoczność na tle konkurencji
 - Struktura adresowania URL
 - Frazy
 - Title i nagłówki
