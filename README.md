@@ -17,6 +17,7 @@
 - Ilość treści
 - Duplikacja
 - Kanibalizacja
+
 ***Sekcja II - analiza techinczna***
 - Meta Tagi
 - Page speed, dostosowanie do użądzeń mobilnych
@@ -24,7 +25,8 @@
 - Przekierowania i bezpieczeństwo
 - Grafiki
 - Paginacja i dane strukturalne
-  ***Sekcja III - profil linków***
+
+***Sekcja III - profil linków***
 - Linkowanie wewnętrzne
 - Analiza Profilu Linków
 
