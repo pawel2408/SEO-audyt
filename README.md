@@ -1,6 +1,6 @@
 # SEO-audyt
 
-## To jest projekt końcowy audytu strony internetowej wykonany w ramach kursu Coders Lab - SEO specjalista.
+## To jest samodzielny projekt końcowy audytu strony internetowej wykonany w ramach kursu Coders Lab - SEO specjalista.
 
 ### Użyte technologie:
 
@@ -30,4 +30,4 @@
 - Linkowanie wewnętrzne
 - Analiza Profilu Linków
 
-> &quot; Najważniejszą rzeczą jest dbanie o to, by najważniejsza rzecz była najważniejszą rzeczą &rdquo; - Stephen Covey.
+> &quot;Najważniejszą rzeczą jest dbanie o to, by najważniejsza rzecz była najważniejszą rzeczą&rdquo; - Stephen Covey.
